@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Ashikur Rahman</h1>
 <h3 align="center">A passionate NodeJS developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
+<img align="right"  width="400" src="https://giphy.com/gifs/dommespace-domme-space-programador-qgQUggAC3Pfv687qPC">
 
 
 - 🔭 I’m currently working on [University-management](https://github.com/Ashikzzzz/university-management-prisma-postgreSQL)
